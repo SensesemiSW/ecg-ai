@@ -29,3 +29,13 @@ Mean, Kurtosis, Standard Deviation, Energy, and Entropy of the Coefficients: The
 1. Kurtosis: Measures the "tailedness" of the signal distribution. Relevant for ECG signals to assess waveform shape and detect deviations from normal distributions.
   
 3. H2-H1: Represents the difference between two halves of the signal. Helpful for ECG signals to assess waveform symmetry and detect abnormalities in waveform morphology.
+
+# ECG annotation:
+
+1. WaveformECG -  https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5476937/&ved=2ahUKEwir2t3Y5-SEAxWQRmwGHTmJAQEQFnoECA8QAQ&usg=AOvVaw15kS0b9LDUIjV0uNlCgx_b
+
+2. Ohif ECG viewer - https://ohif.org/modes/radical-imaging-ecg-mode
+
+3. Encord ECG -
+https://encord.com/blog/best-ecg-annotation-tools/#h4
+
