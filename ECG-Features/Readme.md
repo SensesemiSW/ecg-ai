@@ -39,3 +39,6 @@ Mean, Kurtosis, Standard Deviation, Energy, and Entropy of the Coefficients: The
 3. Encord ECG -
 https://encord.com/blog/best-ecg-annotation-tools/#h4
 
+4. PALMS - ECG & PPG Annoter -
+https://www.mdpi.com/1424-8220/20/24/7302
+
